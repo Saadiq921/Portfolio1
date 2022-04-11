@@ -1,0 +1,83 @@
+/* top header of page */ 
+header {
+background-color: gray;
+text-align: center;
+overflow: hidden;
+margin-bottom: 20px;
+padding: 20px 10px;
+}
+/* body of page */ 
+body {
+font-family: "verdana", sans-serif;
+font-size: 15px;
+color: black;
+background: darkgray;
+}
+/* h1 of body*/ 
+.intro {
+text-align: center;
+}
+/* main body of page */ 
+main {
+margin: auto;
+width: 50%;
+border: 3px ;
+padding: 10px;
+
+}
+
+footer {
+background-color: gray;
+height: 70px;
+}
+.foot {
+text-align: center;
+padding: 20px 10px;
+}
+/* Map */ 
+iframe {
+margin: auto;
+width: 80%;
+border: 3px ;
+padding: 10px;
+
+}
+/* Horizontal line break */ 
+hr {
+align-self: center;
+width: 40%; 
+height: 1px ;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+  
+/* Resizes/centers image*/ 
+img  {
+height: 300px;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+  
+/* Links Pseudo Classes */ 
+a {
+    text-decoration: none;
+}
+  
+a:link {
+color: green;
+}
+
+a:visited {
+color: darkgreen;
+}
+
+a:hover {
+color: lightseagreen;
+}
+
+a:active {
+color: darkgreen;
+}
