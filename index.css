@@ -69,17 +69,17 @@ a {
 }
   
 a:link {
-color: green;
+  color: blue;
 }
 
 a:visited {
-color: darkgreen;
+  color: darkblue;
 }
 
 a:hover {
-color: lightseagreen;
+  color: royalblue;
 }
 
 a:active {
-color: darkgreen;
+  color: midnightblue;
 }
