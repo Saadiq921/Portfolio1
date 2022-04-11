@@ -1,6 +1,6 @@
 /* top header of page */ 
 header {
-background-color: gray;
+background-color: antiquewhite;
 text-align: center;
 overflow: hidden;
 margin-bottom: 20px;
@@ -11,7 +11,7 @@ body {
 font-family: "verdana", sans-serif;
 font-size: 15px;
 color: black;
-background: darkgray;
+background: antiquewhite;
 }
 /* h1 of body*/ 
 .intro {
@@ -25,15 +25,17 @@ border: 3px ;
 padding: 10px;
 
 }
-
+/* Copyright/bottom section of page */
 footer {
-background-color: gray;
+background-color: antiquewhite;
 height: 70px;
 }
+
 .foot {
 text-align: center;
 padding: 20px 10px;
 }
+
 /* Map */ 
 iframe {
 margin: auto;
